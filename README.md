@@ -14,13 +14,18 @@ Note:
 
 ## [Codez Breaker](https://github.com/TrueRegin/codez-breaker)</u>
 A ton of basic decoders all in one app, you can see a working prototype at [https://codez-breaker.netlify.app/](https://codez-breaker.netlify.app/)
+![image](https://user-images.githubusercontent.com/36866793/93013128-9189e900-f573-11ea-8c89-b28d6498aa1e.png)
 
 ## [Family Guy Chat](https://github.com/TrueRegin/family-guy-chat)
 It's a one of a kind cursed website, don't check it out, I mean seriously the chat is also wonky and weird,
+![image](https://user-images.githubusercontent.com/36866793/93013170-f47b8000-f573-11ea-85bb-b8cbd8d8d628.png)
+
 
 # Templates
 [OpenGL Template](https://github.com/TrueRegin/OpenGL-Template) → For building basic OpenGL applications, comes with a Shader compiler and image rendering system + loop already in place
+
 [Simple Frontend Template](https://github.com/TrueRegin/Simple-Frontend) → A simple frontend template you can just clone and get started, mainly for using ts + sass in a project. Bonus... Webpack makes it easy to make your site into a PWA using `webpack-workbox-plugin` and `webpack-pwa-manifest` plugins.
+
 [Webpack Site Template](https://github.com/TrueRegin/webpack-site-template) → Another simple site template made with Webpack, this one uses pug and is a bit older. Has a nice bouncing square animation.
 
 # Other Big Projects (Currently Unpublished & Unfinished)
@@ -28,6 +33,7 @@ It's a one of a kind cursed website, don't check it out, I mean seriously the ch
 
 # In the Future
 **Musewave** is going to be a private music website which I may make implementable
+
 **Multastream** youtube live watch app, that's literally it
 ### Far Future
   **Sourzce File Client** A desktop app for managing files and managing your folders much more efficiently, will have a powerful Node file manager that allows you to easily go deep through file trees to find what you need.
