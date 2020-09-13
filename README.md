@@ -13,7 +13,7 @@ Note:
 ![image](https://user-images.githubusercontent.com/36866793/93012437-6e106f80-f56e-11ea-87c9-94877c610365.png)
 
 ## [Codez Breaker](https://github.com/TrueRegin/codez-breaker)</u>
-A ton of basic decoders all in one app, you can see a working prototype at [https://codez-breaker.glitch.me/](https://codez-breaker.glitch.me/)
+A ton of basic decoders all in one app, you can see a working prototype at [https://codez-breaker.netlify.app/](https://codez-breaker.netlify.app/)
 
 ## [Family Guy Chat](https://github.com/TrueRegin/family-guy-chat)
 It's a one of a kind cursed website, don't check it out, I mean seriously the chat is also wonky and weird,
