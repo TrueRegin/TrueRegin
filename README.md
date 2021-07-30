@@ -1,7 +1,17 @@
 ### Hi there 👋
-I make epic interactive websites and applications, most of my stuff is either templates or projects which you can test out yourself. 
+I'm Anthony and this is my github profile.
+I'm, well, unsure about a lot of things, but I'm pretty sure I have an idea of how to build a decent website given an interesting/useful concept and some time.
+
+You can check out my work below which consists primarily of Web projects (fullstack/frontend websites), Desktop Applications, and Templates.
+
+✨✨✨ Seriously, my best work is down below so go check it out! ✨✨✨
 
 # Highlights
+
+## [Pixel Borders](https://github.com/TrueRegin/pixel-borders)
+This is a pretty nifty site, I made it back when I was interested in pixel art styles and think the background + pixel art effect turned out pretty well.
+You can check out a working version at https://pixel-borders.netlify.app/. Try seeing if you can match up all the items.
+![image](https://user-images.githubusercontent.com/36866793/127603169-01d8069e-061b-4e98-b0ac-75c2c873359b.png)
 
 ## [Fractal Renderer](https://github.com/TrueRegin/Fractal-Renderer)
 Julia and Mandelbrot fractal generator in C++, it's about as fast as I could make it and it takes advantages of doubles in the shader so you can zoom in a good distance. Don't be fooled, fractals are incredibly simple once you understand them.
@@ -17,7 +27,7 @@ A ton of basic decoders all in one app, you can see a working prototype at [http
 ![image](https://user-images.githubusercontent.com/36866793/93013128-9189e900-f573-11ea-8c89-b28d6498aa1e.png)
 
 ## [Family Guy Chat](https://github.com/TrueRegin/family-guy-chat)
-It's a one of a kind cursed website, don't check it out, I mean seriously the chat is also wonky and weird,
+It's a one of a kind cursed website, don't check it out, I mean seriously the chat isn't really good quality.
 ![image](https://user-images.githubusercontent.com/36866793/93013170-f47b8000-f573-11ea-85bb-b8cbd8d8d628.png)
 
 
@@ -28,15 +38,11 @@ It's a one of a kind cursed website, don't check it out, I mean seriously the ch
 
 [Webpack Site Template](https://github.com/TrueRegin/webpack-site-template) → Another simple site template made with Webpack, this one uses pug and is a bit older. Has a nice bouncing square animation.
 
-# Other Big Projects (Currently Unpublished & Unfinished)
-**Veinr** is a twitter semi-clone made with Vue
-
 # In the Future
-**Musewave** is going to be a private music website which I may make implementable
+**Ether 🔥** - Ether is a (currently private) music playing app I'm working on made with Electron + Vite + Vue. It is intended for streamers and music listeners.
+The app will have tagging for individual songs and listening time for songs so you can turn on auto-play, apply a filter and listen to songs without being bothered.
 
-**Multastream** youtube live watch app, that's literally it
-### Far Future
-  **Sourzce File Client** A desktop app for managing files and managing your folders much more efficiently, will have a powerful Node file manager that allows you to easily go deep through file trees to find what you need.
+Of course, I'm still working on the app, so I'll update this section if the app ever has a working version out.
 
 <!--
 **TrueRegin/TrueRegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
