@@ -5,6 +5,7 @@ I'm, well, unsure about a lot of things, but I'm pretty sure I have an idea of h
 You can check out my work below which consists primarily of Web projects (fullstack/frontend websites), Desktop Applications, and Templates.
 
 ✨✨✨ Seriously, my best work is down below so go check it out! ✨✨✨
+I also have many more projects on my Github than those listed here if any of this interested you.
 
 # Highlights
 
